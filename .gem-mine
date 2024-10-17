@@ -1,0 +1,11 @@
+{
+  "version": "2.1.3",
+  "template_id": "f46944e9-a51f-4f49-a614-cd923903baab",
+  "name": "ai-gateway-web",
+  "path": "E:\\project\\ai-gateway-web\\ai-gateway-web",
+  "env": "{\"cli_version\":\"2.23.5\",\"npm_version\":\"9.6.7\",\"node_version\":\"v18.17.0\"}",
+  "user": "193658",
+  "email": "193658@nd.com",
+  "choice": "{\"templateId\":\"f46944e9-a51f-4f49-a614-cd923903baab\",\"packageManager\":\"yarn\",\"registry\":\"http://registry.npm.sdp.nd/\",\"features\":[\"lintBeforeCommit\",\"jest\"],\"ui\":\"fish\",\"demo\":true,\"sdp\":false}",
+  "project_id": "b49742e0-8c7c-11ef-b9ba-619afbcca2f4_1729165270542"
+}
